@@ -42,3 +42,16 @@ header#header h2{
 /*
   MAIN
 */
+h1{
+  text-align: center;
+
+}
+
+#services{
+  background: #ECECEC;
+}
+
+.bloc_1_3{
+  width: 300px;
+  margin: 10px;
+}
