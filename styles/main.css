@@ -55,3 +55,22 @@ h1{
   width: 300px;
   margin: 10px;
 }
+#articles{
+  float: left;
+  width: 620px;
+  margin: 10px;
+}
+aside{
+  float: left;
+  width: 300px;
+  height: auto;
+}
+article img{
+  float: left;
+  width: 200px;
+  height: auto;
+}
+article div{
+  width: 420px;
+  
+}
